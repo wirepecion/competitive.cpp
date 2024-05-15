@@ -7,6 +7,15 @@ bin-release/
 # Other files and folders
 .settings/
 
+# Ignore all .exe files
+*.exe
+
+# Other common ignores
+node_modules/
+*.log
+.DS_Store
+
+
 # Executables
 *.swf
 *.air
